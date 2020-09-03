@@ -1,0 +1,25 @@
+.item {
+    width: calc(100% - 60px);
+    height: 50px;
+    margin: 0 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-top: 1px dashed rgba(255,255,255,.2) ;
+
+    .label {
+        max-width: 200px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+
+        font-size: 14px;
+        font-family: 'Abel', sans-serif;
+    }
+
+    img {
+        width: 16px;
+    }
+}

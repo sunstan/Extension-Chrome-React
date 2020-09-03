@@ -1,0 +1,34 @@
+.header {
+
+    width: 100%;
+    height: 169px;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+    position: relative;
+
+    .thumb {
+        width: 100%;
+    }
+
+    .cover {
+        width: 150%;
+        height: 150%;
+        opacity: 0.1;
+
+        object-fit: cover;
+        position: absolute;
+    }
+
+    .avatar {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+
+        position: relative;
+    }
+}

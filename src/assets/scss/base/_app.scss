@@ -1,0 +1,17 @@
+#app {
+
+    width: 300px;
+    min-width: 300px;
+    min-height: 169px;
+    height: fit-content;
+
+    @include themify($themes) {
+
+        color: themed('primary');
+        background-color: themed('background');
+
+        .accent {
+            color: themed('accent');
+        }
+    }
+}

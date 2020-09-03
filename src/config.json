@@ -1,0 +1,32 @@
+{
+    "theme": "",
+    
+    "channel_name": "lestream",
+    "client_id": "baobxr9o3d3dnlmzj1l5gwqtaq3h49",
+    "client_secret": "z5blrcuifp3ytb2j6qqvx2o1h7vvrk",
+    
+    "social": {
+        "youtube": "",
+        "twitter": "",
+        "facebook": "",
+        "instagram": "",
+        "discord": "",
+        "shop": ""
+    },
+    
+    "notification": {
+        "type": "basic",
+        "title": "",
+        "message": "",
+        "iconUrl": "assets/app/icon-notification.png"
+    },
+    
+    "assets": {
+        "on64": "assets/app/icon-on-64.png",
+        "on128": "assets/app/icon-on-128.png",
+        "off64": "assets/app/icon-off-64.png",
+        "off128": "assets/app/icon-off-128.png",
+        "err64": "assets/app/icon-error-64.png",
+        "err128": "assets/app/icon-error-128.png"
+    }
+}

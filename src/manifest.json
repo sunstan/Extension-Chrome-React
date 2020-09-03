@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Twitch Live Alert",
+    "author": "www.jeromelaval.fr",
+    "version": "1.0.0",
+    
+    "icons" : {
+        "64" : "assets/app/icon-on-64.png",
+        "128" : "assets/app/icon-on-128.png"
+    },
+    
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Twitch Live Alert",
+        "default_icon": "assets/app/icon-off-64.png"
+    },
+    
+    "background": {
+        "scripts": [
+            "js/initialization.js",
+            "js/background.js"
+        ],
+        "persistent": true
+    },
+    
+    "permissions": [
+        "tabs",
+        "storage",
+        "notifications"
+    ]
+}
