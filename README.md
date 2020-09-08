@@ -4,6 +4,8 @@ Once configured and deposited on the google store, their viewers can be notified
 
 **Démo :** https://chrome.google.com/webstore/detail/valmaster-live-alert/jhekmffmenimdgfijmealpnoljmlbmho?hl=fr
 
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 57”>
+
 ## Getting Started
 ```
 git clone https://github.com/sunstan/Extension-Chrome-React
