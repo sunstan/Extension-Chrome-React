@@ -2,6 +2,12 @@
 This extension is intended for streamers for their community.
 Once configured and deposited on the google store, their viewers can be notified during each live. They will have real-time stream informations and have quick access to the streamer's social media.
 
+![Themes]
+(https://i.imgur.com/UJYrcgg.jpg)
+
+![On live]
+(https://i.imgur.com/ZJurwGv.jpg)
+
 **Démo :** https://chrome.google.com/webstore/detail/valmaster-live-alert/jhekmffmenimdgfijmealpnoljmlbmho?hl=fr
 
 ## Getting Started
