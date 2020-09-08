@@ -4,6 +4,10 @@ Once configured and deposited on the google store, their viewers can be notified
 
 **Démo :** https://chrome.google.com/webstore/detail/valmaster-live-alert/jhekmffmenimdgfijmealpnoljmlbmho?hl=fr
 
+![On live](https://i.imgur.com/ZJurwGv.jpg)
+
+![Themes](https://i.imgur.com/UJYrcgg.jpg)
+
 ## Getting Started
 ```
 git clone https://github.com/sunstan/Extension-Chrome-React
