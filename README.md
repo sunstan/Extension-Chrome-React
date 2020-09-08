@@ -16,7 +16,7 @@ cd Extension-Chrome-React
 
 ## Configuration
 
-You have to edit `config.ts`
+You have to edit `src/config.json`
 
 Key | Type | Description
 ------------ | ------------- | -------------
